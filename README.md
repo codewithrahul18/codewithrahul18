@@ -44,3 +44,35 @@ Here are some ideas to get you started:
 > Loading Skills ████████▒▒▒▒
 > Hacker Style Engaged ✔
 > Status: ONLINE 💀
+snake.yml
+name: Generate Snake Animation
+
+on:
+  schedule: # हर 12 घंटे में snake update होगा
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # manually भी चला सकते हो
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: THE-RAHUL-CHAUHAN
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/THE-RAHUL-CHAUHAN/THE-RAHUL-CHAUHAN/blob/output/github-contribution-grid-snake.svg" />
+</p>

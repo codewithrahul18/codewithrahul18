@@ -22,21 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+Hacker+Profile;Always+Learning+%26+Building;AI+%7C+Web+%7C+Open+Source;Code+Like+a+Hacker+💀" />
 </p>
-<!-- Ultimate Hacker-Style GitHub Profile README for codewithrahul18 -->
 
-<!-- Animated Neon Banner + Terminal Overlay -->
-<p align="center">
-  <img src="https://i.ibb.co/4jZ8zVv/hacker-banner-terminal.gif" alt="Hacker Banner with Terminal" width="100%"/>
-</p>
-
-<!-- Typing Intro -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Hey+I'm+Rahul+Chauhan;AI+%7C+Web+Dev+%7C+CyberSec;Coding+Like+A+Hacker;Welcome+to+My+Matrix+World" alt="Typing SVG" />
-  </a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 ```bash

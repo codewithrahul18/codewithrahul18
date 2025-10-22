@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rahul Chauhan
+# 👋 Hi, I'm RAHUL CHAUHAN
 
 ### AI & Data Science Engineering Student | Python Developer | Future AI Innovator & Entrepreneur 🌟
 
@@ -17,82 +17,92 @@
 
 ---
 
-## 🛠️ Tech Stack (3D Holographic Badges)
+## 🛠️ Tech Stack (Holographic Neon)
 
 <div align="center">
-<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" /> 
-<img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E?style=for-the-badge&logo=opencv&logoColor=white&labelColor=111111" /> 
-<img src="https://img.shields.io/badge/Data%20Science-%234B8BBE?style=for-the-badge&logo=apache%20spark&logoColor=white&labelColor=222222" /> 
-<img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=333333" /> 
-<img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=444444" /> 
-<img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=555555" /> 
+
+<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A" /> 
+<img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1A1A1A" /> 
+<img src="https://img.shields.io/badge/Data%20Science-%234B8BBE?style=for-the-badge&logo=apache%20spark&logoColor=white&labelColor=2A2A2A" /> 
+<img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=3A3A3A" /> 
+<img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=4A4A4A" /> 
+<img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=5A5A5A" /> 
+
 </div>
 
 ---
 
-## 🚀 Featured Projects (3D Cards)
+## 🚀 Featured Projects (3D Holographic Cards)
 
 <div align="center">
 
 ### 🤖 AI-Powered Solutions
 **Tech:** Python, TensorFlow, Scikit-learn, Pandas  
 **Highlights:** Predictive modeling, Neural Networks, Data Preprocessing  
-[![View Projects](https://img.shields.io/badge/View_Projects-00FFEE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrahul18)
+[![View Projects](https://img.shields.io/badge/View_Projects-00FFD5?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/codewithrahul18)
 
 ### 📈 Data Analysis & Visualization
 **Tech:** Python, Matplotlib, Seaborn, Plotly  
 **Features:** EDA, Interactive Dashboards, Statistical Insights  
-[![View Projects](https://img.shields.io/badge/View_Projects-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrahul18)
+[![View Projects](https://img.shields.io/badge/View_Projects-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D1D1D)](https://github.com/codewithrahul18)
 
 ### 💻 Python Applications
 **Tech:** Python, Automation Scripts, Web Scraping  
 **Includes:** Utility Tools, Scripts & Mini Projects  
-[![View Projects](https://img.shields.io/badge/View_Projects-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrahul18)
+[![View Projects](https://img.shields.io/badge/View_Projects-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D)](https://github.com/codewithrahul18)
 
 </div>
 
 ---
 
-## 📫 Let's Connect (Glow Buttons)
+## 📫 Let's Connect (Neon Glow Buttons)
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://linkedin.com/in/rahul-chauhan)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=222222)](https://twitter.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=333333)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444444)](mailto:your-email@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/codewithrahul18)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/rahul-chauhan)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1D1D1D)](https://twitter.com/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2D2D2D)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3D3D3D)](mailto:your-email@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4D4D4D)](https://github.com/codewithrahul18)
+
 </div>
 
 ---
 
-## 📊 GitHub Stats (3D Neon Cards)
+## 📊 GitHub Stats (3D Neon Dashboard)
 
 <div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithrahul18&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrahul18&layout=compact&theme=radical&hide_border=true)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=codewithrahul18&theme=radical&hide_border=true)  
+
 </div>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Fact (Holographic Glow)
+
 <div align="center">
+
 I believe every line of code tells a story, and data holds the plot!  
 ![Profile Views](https://komarev.com/ghpvc/?username=codewithrahul18&color=blue&style=flat-square)  
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies (Holographic)
+## 🏆 GitHub Trophies (3D Holographic)
+
 [![Trophies](https://github-profile-trophy.vercel.app/?username=codewithrahul18&theme=radical&no-frame=true&row=1)](https://github.com/codewithrahul18)
 
 ---
 
-## 📊 Weekly Development Breakdown (3D Blocks)
+## 📊 Weekly Development Breakdown (Neon Blocks)
+
 <!--START_SECTION:waka-->
 Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   90%  
 Jupyter      🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜   50%  
 Markdown     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜   30%  
 Other        🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜   20%  
 <!--END_SECTION:waka-->
-

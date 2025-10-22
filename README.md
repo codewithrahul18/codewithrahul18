@@ -55,21 +55,7 @@
 
 ---
 
-## 📫 Connect With Me (Neon Glow Buttons)
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulchauhan18
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrahul18)
-
-</div>
-
----
-
-## 📊 GitHub Stats (Holographic Dashboard Panels)
+## 📊 GitHub Stats 
 
 <div align="center">
 
@@ -81,7 +67,17 @@
 
 ---
 
-## ⚡ Fun Fact (Glowing Holographic)
+## 📊 Data Visualization / Graph Section (Neon Glow)
+
+<div align="center">
+
+
+
+</div>
+
+---
+
+## ⚡ Fun Fact 
 
 <div align="center">
 
@@ -92,13 +88,13 @@ I believe every line of code tells a story, and data holds the plot!
 
 ---
 
-## 🏆 GitHub Trophies (Floating Neon Glow)
+## 🏆 GitHub Trophies 
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=codewithrahul18&theme=radical&no-frame=true&row=1)](https://github.com/codewithrahul18)
 
 ---
 
-## 📊 Weekly Development Breakdown (Animated Neon Bars)
+## 📊 Weekly Development Breakdown 
 
 <!--START_SECTION:waka-->
 Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   90%  

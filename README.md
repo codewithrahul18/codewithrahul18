@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Neon 3D Glow)
+## 🛠️ Tech Stack 
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Featured Projects (Floating 3D Cards)
+## 🚀 Featured Projects 
 
 <div align="center">
 
@@ -59,10 +59,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-chauhan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulchauhan18
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrahul18)
 
 </div>

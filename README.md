@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack (3D Holographic Glow)
+## 🛠️ Tech Stack (Neon 3D Glow)
 
 <div align="center">
 
@@ -32,44 +32,44 @@
 
 ---
 
-## 🚀 Featured Projects (3D Neon Cards)
+## 🚀 Featured Projects (Floating 3D Cards)
 
 <div align="center">
 
 ### 🤖 AI-Powered Solutions
 **Tech:** Python, TensorFlow, Scikit-learn, Pandas  
 **Highlights:** Predictive modeling, Neural Networks, Data Preprocessing  
-[![View Projects](https://img.shields.io/badge/View_Projects-00FFD5?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/codewithrahul18)
+[![View Projects](https://img.shields.io/badge/View_Projects-00FFD5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrahul18)
 
 ### 📈 Data Analysis & Visualization
 **Tech:** Python, Matplotlib, Seaborn, Plotly  
 **Features:** EDA, Interactive Dashboards, Statistical Insights  
-[![View Projects](https://img.shields.io/badge/View_Projects-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D1D1D)](https://github.com/codewithrahul18)
+[![View Projects](https://img.shields.io/badge/View_Projects-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrahul18)
 
 ### 💻 Python Applications
 **Tech:** Python, Automation Scripts, Web Scraping  
 **Includes:** Utility Tools, Scripts & Mini Projects  
-[![View Projects](https://img.shields.io/badge/View_Projects-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D)](https://github.com/codewithrahul18)
+[![View Projects](https://img.shields.io/badge/View_Projects-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrahul18)
 
 </div>
 
 ---
 
-## 📫 Let's Connect (Neon Glow Buttons)
+## 📫 Connect With Me (Neon Glow Buttons)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D&color=00FFFF)](https://linkedin.com/in/rahul-chauhan)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1D1D1D&color=FF00FF)](https://twitter.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2D2D2D&color=00FF9F)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3D3D3D&color=FF007F)](mailto:your-email@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4D4D4D&color=00FFD5)](https://github.com/codewithrahul18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-chauhan)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrahul18)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats (3D Neon Dashboard)
+## 📊 GitHub Stats (Holographic Dashboard Panels)
 
 <div align="center">
 
@@ -92,13 +92,13 @@ I believe every line of code tells a story, and data holds the plot!
 
 ---
 
-## 🏆 GitHub Trophies (Neon Glow)
+## 🏆 GitHub Trophies (Floating Neon Glow)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=codewithrahul18&theme=radical&no-frame=true&row=1)](https://github.com/codewithrahul18)
 
 ---
 
-## 📊 Weekly Development Breakdown (Neon 3D Blocks)
+## 📊 Weekly Development Breakdown (Animated Neon Bars)
 
 <!--START_SECTION:waka-->
 Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   90%  

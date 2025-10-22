@@ -67,7 +67,7 @@
 
 ---
 
-## 📊 Data Visualization / Graph Section (Neon Glow)
+## 📊 Data Visualization / Graph Section 
 
 <div align="center">
 

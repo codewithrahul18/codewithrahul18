@@ -67,7 +67,6 @@
 
 ---
 
-## 📊 Data Visualization / Graph Section 
 
 <div align="center">
 

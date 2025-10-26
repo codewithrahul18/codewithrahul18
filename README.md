@@ -66,11 +66,7 @@ I believe every line of code tells a story, and data holds the plot!
 
 ---
 
-## 🏆 GitHub Trophies 
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=codewithrahul18&theme=radical&no-frame=true&row=1)](https://github.com/codewithrahul18)
-
----
 
 ## 📊 Weekly Development Breakdown 
 

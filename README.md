@@ -213,20 +213,9 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
 
-<!-- 
-To enable the snake animation, follow these steps:
-1. Fork https://github.com/Platane/snk
-2. Add a GitHub Action workflow to generate the snake
-3. Uncomment the line below and update the path
--->
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/codewithrahul18/codewithrahul18/output/github-contribution-grid-snake-dark.svg) -->
-
-**🔧 Snake animation setup required - See comment above**
 
 </div>
 

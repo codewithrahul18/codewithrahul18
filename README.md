@@ -306,14 +306,15 @@ Other            ██░░░░░░░░░░░░░░░░░░░
 
 | Skill | Proficiency |
 |-------|-------------|
-| Python | ![90%](https://progress-bar.dev/90?title=Expert&width=200&color=00FFE0) |
-| Machine Learning | ![85%](https://progress-bar.dev/85?title=Advanced&width=200&color=00FFE0) |
-| Deep Learning | ![80%](https://progress-bar.dev/80?title=Advanced&width=200&color=00FFE0) |
-| Data Analysis | ![88%](https://progress-bar.dev/88?title=Expert&width=200&color=00FFE0) |
-| NLP | ![75%](https://progress-bar.dev/75?title=Intermediate&width=200&color=00FFE0) |
-| Computer Vision | ![78%](https://progress-bar.dev/78?title=Advanced&width=200&color=00FFE0) |
-| MLOps | ![70%](https://progress-bar.dev/70?title=Intermediate&width=200&color=00FFE0) |
-| Cloud Computing | ![72%](https://progress-bar.dev/72?title=Intermediate&width=200&color=00FFE0) |
+| Python | ![](https://img.shields.io/badge/Python-90%25%20Expert-00FFE0) |
+| Machine Learning | ![](https://img.shields.io/badge/Machine%20Learning-85%25%20Advanced-00FFE0) |
+| Deep Learning | ![](https://img.shields.io/badge/Deep%20Learning-80%25%20Advanced-00FFE0) |
+| Data Analysis | ![](https://img.shields.io/badge/Data%20Analysis-88%25%20Expert-00FFE0) |
+| NLP | ![](https://img.shields.io/badge/NLP-75%25%20Intermediate-00FFE0) |
+| Computer Vision | ![](https://img.shields.io/badge/Computer%20Vision-78%25%20Advanced-00FFE0) |
+| MLOps | ![](https://img.shields.io/badge/MLOps-70%25%20Intermediate-00FFE0) |
+| Cloud Computing | ![](https://img.shields.io/badge/Cloud-72%25%20Intermediate-00FFE0) |
+
 
 </div>
 

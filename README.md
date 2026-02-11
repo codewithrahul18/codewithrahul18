@@ -294,16 +294,16 @@ Other            ██░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<a href="mailto:rahul@example.com">
+<a href="mailto:therahulchauhan18@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
 </a>
-<a href="https://linkedin.com/in/rahulchauhan">
+<a href="https://linkedin.com/in/rahulchauhan18">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
 
-<a href="https://kaggle.com/rahulchauhan">
+<a href="https://kaggle.com/https:/rahulchauhan016">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1a1a1a" />
 </a>
-<a href="https://medium.com/@rahulchauhan">
+<a href="https://medium.com/https:/@Er.RC">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a1a1a" />
 </a>
 

@@ -8,7 +8,7 @@
 Alternative: You can also upload to any image hosting service and replace the URL below
 -->
 
-<img src="https://raw.githubusercontent.com/codewithrahul18/codewithrahul18/main/assets/profile-banner.png" alt="Profile Banner" width="100%"/>
+<img src="https://github.com/codewithrahul18/codewithrahul18/blob/main/profile-banner.png" alt="Profile Banner" width="100%"/>
 
 # 👋 Hi, I'm RAHUL CHAUHAN
 

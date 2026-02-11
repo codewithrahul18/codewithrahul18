@@ -300,7 +300,7 @@ Other            ██░░░░░░░░░░░░░░░░░░░
 <a href="https://linkedin.com/in/rahulchauhan18">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
 
-<a href="https://kaggle.com/https:/rahulchauhan016">
+<a href="https://www.kaggle.com/rahulchauhan016">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1a1a1a" />
 </a>
 <a href="https://medium.com/https:/@Er.RC">

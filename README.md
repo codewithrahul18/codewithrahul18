@@ -375,21 +375,7 @@ Other            ██░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 💰 Support My Work
 
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/rahulchauhan">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=1a1a1a" />
-</a>
-<a href="https://ko-fi.com/rahulchauhan">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1a1a" />
-</a>
-<a href="https://patreon.com/rahulchauhan">
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=1a1a1a" />
-</a>
-
-</div>
 
 ---
 

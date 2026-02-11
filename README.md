@@ -225,10 +225,57 @@ me.say_hi()
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithrahul18&repo=AI-Project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFE0&icon_color=FF00FF&text_color=FFFFFF)](https://github.com/codewithrahul18/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithrahul18&repo=ML-Project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFE0&icon_color=FF00FF&text_color=FFFFFF)](https://github.com/codewithrahul18/)
+<!-- Project 1 -->
+<a href="https://github.com/codewithrahul18/MedFlow-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithrahul18&repo=MedFlow-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFE0&icon_color=FF00FF&text_color=FFFFFF"/>
+</a>
 
-*Replace repo names above with your actual repositories*
+### 🏥 MedFlow AI — Hospital Workflow Intelligence
+AI system predicting patient inflow & optimizing hospital operations.
+
+🛠 Tech Stack  
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/ML-orange)
+![Pandas](https://img.shields.io/badge/Pandas-purple)
+![Streamlit](https://img.shields.io/badge/Streamlit-red)
+
+🔗 [Repository](https://github.com/codewithrahul18/MedFlow-AI)
+
+---
+
+<!-- Project 2 -->
+<a href="https://github.com/codewithrahul18/SmartVision-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithrahul18&repo=SmartVision-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFE0&icon_color=FF00FF&text_color=FFFFFF"/>
+</a>
+
+### 👁 SmartVision AI — Computer Vision System
+Image analysis & object detection using deep learning.
+
+🛠 Tech Stack  
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+
+🔗 [Repository](https://github.com/codewithrahul18/SmartVision-AI)
+
+---
+
+<!-- Project 3 -->
+<a href="https://github.com/codewithrahul18/DataScience-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithrahul18&repo=DataScience-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFE0&icon_color=FF00FF&text_color=FFFFFF"/>
+</a>
+
+### 📊 Data Science Dashboard App
+Interactive analytics dashboard for business insights.
+
+🛠 Tech Stack  
+![Python](https://img.shields.io/badge/Python-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-red)
+![Pandas](https://img.shields.io/badge/Pandas-purple)
+
+🔗 [Repository](https://github.com/codewithrahul18/DataScience-App)
+
+</div>
 
 </div>
 
